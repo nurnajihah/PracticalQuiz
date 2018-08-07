@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practical Quiz</string>
+
+    <string-array name="website_name">
+        <item>Facebook</item>
+        <item>Twitter</item>
+    </string-array>
+
+    <string-array name="website_url">
+        <item>https://www.google.com</item>
+        <item>https://www.rp.edu.sg</item>
+    </string-array>
+</resources>
